@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/fengyusu/catkin_ws/devel/include",
+                "/home/fengyusu/slam_ros_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/fengyusu/slam_ros_ws/src/LaserUndistortion/include",
+                "/home/fengyusu/slam_ros_ws/src/gmapping/openslam_gmapping/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
